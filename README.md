@@ -1,12 +1,4 @@
-# CS308
-
-What is the name of your language?
-
-When/where was it created, and by whom? Was it written to address a particular problem or need?
-
-What types of programming is your language primarily used for (ex: web sites, video games, mobile devices, parsing, etc.)? If your language is multi-purpose, provide some examples of different projects it's been used for.
-
-Where will you get information about this language when it's time to start programming in it? At the end of your assignment, provide a list of the names of books, website URLs, or any other resources that relate to your language in particular.
+# CS308 - Swift
 
 # The history of Swift
 Swift was first announced in 2014 by Apple at their annual Developer Conference WWDC to replace the long-lasted Objective-C. The programming is born to help innovate applications on Apple's devices - not only mobile gadgets but also the computers.
@@ -29,9 +21,11 @@ Select the "Create a new Project" option to start
 <img width="914" alt="image" src="https://user-images.githubusercontent.com/53080478/155896455-ba54a605-b685-423f-9537-e1bef84d0125.png">
 
 I'll create an iOS app for iPhone. Select the options according to your preference. From now on, your selected device at this step will be referred as "target device".
+
 <img width="756" alt="image" src="https://user-images.githubusercontent.com/53080478/155896482-244eabb0-d1c5-4c5c-a89e-273789487987.png">
 
 Done! The coding space shows up with your target device selected.
+
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/53080478/155896609-a7568555-3129-4d71-93c4-1d18cac531f7.png">
 
 
@@ -44,9 +38,11 @@ Just like Java, use "//" for in-line/single-line comments and "/* .. */" for mul
 ## Build and Run the program
 Choose Product > Run to start building your code. A "simulator" of your target device will show up. 
 Notice: It might take a while on the first run.
+
 <img width="305" alt="image" src="https://user-images.githubusercontent.com/53080478/155896739-63e586f5-03ed-471a-940a-7ec145140853.png">
 
 After a successful build, the device shows up as follows
+
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/53080478/155896681-7937c549-dbd1-4eda-b968-d3cf0aa87f14.png">
 
 # Reference
