@@ -3,7 +3,7 @@
 
 ## Name
 ### Keywords
-Swift comes with six (06) main types of keywords. See the Keywords and Punctuation section in this article for the definition of each types and respective examples. https://docs.swift.org/swift-book/ReferenceManual/LexicalStructure.html
+Swift comes with six (06) main types of keywords. See the Keywords and Punctuation section in this article for the definition of each type and respective examples. https://docs.swift.org/swift-book/ReferenceManual/LexicalStructure.html
 
 ### Naming requirements (enforced by compiler)
 **Swift variables and constants have the same naming rules as most C-inspired programming languages**
@@ -30,6 +30,9 @@ var thisIsAFloat = 4.5;
 
 // Declare an Array of String
 var thisIsAnArrayofString: Array<String> = ["Hello", "World!"];
+
+// Declare a Dictionary
+var thisIsADictionary: [String: Int] = ["Phuoc": 22, "Tu": 23];
 ```
 
 ## Types and Operators
