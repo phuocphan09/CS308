@@ -32,9 +32,15 @@ var thisIsAFloat = 4.5;
 var thisIsAnArrayofString: Array<String> = ["Hello", "World!"];
 ```
 
-## Types
-- Swift is statically, strongly, and implicitly typed: the type is checked at compile time; you cannot do operations between two types; and each variable is tied to the value of one type only.
-- A **variable** (declared via *var*) is **mutable** whereas a **constant** (declared via *let*) is **immutable**.
+## Types and Operators
+> Swift is statically, strongly, and implicitly typed: the type is checked at compile time; you cannot do operations between two types; and each variable is tied to the value of one type only.
+> A **variable** (declared via *var*) is **mutable** whereas a **constant** (declared via *let*) is **immutable**.
+> Available operators
+ - String: (+) for concatenation
+ - All number types: All arithmetic operators are supported (+, -, *,/)
+ - Boolean: Place (!) in front of the variable to reverse its value
+
+> Again, mixed type operations are not allowed. The language is strongly typed.*
 
 ### Code sample
 #### The following code will fail, as Swift does not allow mixed operations between types
