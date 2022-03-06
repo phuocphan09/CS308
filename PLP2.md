@@ -73,8 +73,10 @@ print(thisIsAnArrayofString);
 ```
 
 ## Binding
+> Just like other Object-Oriented Programming Languages, Swift supports both static and dynamic binding: static means the binding occurs at compile time while the process happen at runtime for the other mode. Preference is given for static that: Swift will do static binding on any commands that their information (values, types, reference) are ready / available at compile time, and leave the rest for runtime.
 
 # References
 - Apple's Official Documentation of Swift https://docs.swift.org/swift-book/
 - Beginning Swift https://subscription.packtpub.com/book/application-development/9781789534313/1/ch01lvl1sec13/swift-variables-and-constants
 - Variable and constants in Swift https://andybargh.com/variables-and-constants-in-swift/
+- Dynamic Binding in Swift https://www.oreilly.com/library/view/swift-functional-programming/9781787284500/72229268-1ac1-476b-ad4d-24e8f1622ed3.xhtml#:~:text=As%20opposed%20to%20static%20binding,will%20be%20determined%20during%20runtime
