@@ -12,7 +12,7 @@ Swift comes with six (06) main types of keywords. See the Keywords and Punctuati
 - Can begin with and include an underscore character
 - Symbol names are case sensitive
 
-**Other than that, Swift opens up all sorts of naming options, including the use of emoji characters to name your variables**
+**Other than that, Swift opens up all sorts of naming options, including the use of emoji characters to name your variables 🤓**
 
 ### Naming convention (standards in the community) 
 Names of types and protocols are UpperCamelCase. Everything else is lowerCamelCase.
