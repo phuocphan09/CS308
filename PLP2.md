@@ -70,7 +70,6 @@ However, Swifts allow explicit typing by casts functions. The following code doe
 // Explicitly typed
 var thisIsAnArrayofString: Array<String> = [String(1), String(2)];
 print(thisIsAnArrayofString);
-
 ```
 
 ## Binding
