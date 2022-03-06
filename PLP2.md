@@ -73,3 +73,8 @@ print(thisIsAnArrayofString);
 ```
 
 ## Binding
+
+# References
+- Apple's Official Documentation of Swift https://docs.swift.org/swift-book/
+- Beginning Swift https://subscription.packtpub.com/book/application-development/9781789534313/1/ch01lvl1sec13/swift-variables-and-constants
+- Variable and constants in Swift https://andybargh.com/variables-and-constants-in-swift/
