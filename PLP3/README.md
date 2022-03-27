@@ -9,7 +9,6 @@ Swift uses *true* and *false* as its boolean values
 > If/else are the two basic keywords for conditional statements in Swift
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/53080478/160295084-22bcff99-2481-40ae-b5f2-d82c4c5311e8.png">
 
-Multiple conditions
 <img width="303" alt="image" src="https://user-images.githubusercontent.com/53080478/160295089-f300170d-d5a8-46d1-8a61-6b4031f8aeb0.png">
 
 > Besides the popular if/else statements, Swift also supports guard.
@@ -18,10 +17,7 @@ Multiple conditions
 > Notice that *guard* needs to be ended with return, break, continue or throw, otherwise the fall through error will be thrown
 <img width="841" alt="image" src="https://user-images.githubusercontent.com/53080478/160294928-2901dba0-025a-4ace-95e9-928635cd1e6e.png">
 
-
-This will shows error
 <img width="970" alt="image" src="https://user-images.githubusercontent.com/53080478/160294026-c10442e1-2982-4102-9046-23492b169b93.png">
-
 
 > **Notice that code blocks under each condition needs to be delimited via a couple of parentheses *{}* following the above demo**
 
@@ -39,9 +35,15 @@ This will shows error
 ### Switch-case
 
 > The basic form
+<img width="474" alt="image" src="https://user-images.githubusercontent.com/53080478/160295871-cc5adda2-87a1-4933-852a-195c0a7a6932.png">
 
-> The complex form
+> The complex form with range
+<img width="362" alt="image" src="https://user-images.githubusercontent.com/53080478/160295881-28522393-1103-4ab2-95c9-b59e20417c58.png">
+
+> **Swift by default, implements the "break" command at the end of every case*
+<img width="853" alt="image" src="https://user-images.githubusercontent.com/53080478/160295903-f095a85e-b40e-4b37-bd7a-3160fa17aaf8.png">
 
 ## References
 1. Swift's official documentation of Statements https://docs.swift.org/swift-book/ReferenceManual/Statements.html
 2. Guard in Swift https://www.programiz.com/swift-programming/guard-statement
+3. Switch in Swift https://www.programiz.com/swift-programming/switch-statement
