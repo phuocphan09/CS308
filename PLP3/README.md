@@ -6,7 +6,7 @@ Swift uses **true** and **false** as its boolean values
 
 ## The basic
 ### Supported conditional statements
-> If/else are the two basic keywords for conditional statements in Swift
+> If / else are the two basic keywords for conditional statements in Swift
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/53080478/160295084-22bcff99-2481-40ae-b5f2-d82c4c5311e8.png">
 
 <img width="303" alt="image" src="https://user-images.githubusercontent.com/53080478/160295089-f300170d-d5a8-46d1-8a61-6b4031f8aeb0.png">
