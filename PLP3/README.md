@@ -21,7 +21,6 @@ Swift uses *true* and *false* as its boolean values
 
 > **Notice that code blocks under each condition needs to be delimited via a couple of parentheses *{}* following the above demos**
 
-
 ### Dangling else
 > Swift uses if else nested in parentheses to avoid ambiguity
 <img width="761" alt="image" src="https://user-images.githubusercontent.com/53080478/160295074-b75856da-2df0-421f-8851-1a294e266016.png">
@@ -40,8 +39,12 @@ Swift uses *true* and *false* as its boolean values
 > The complex form with range
 <img width="362" alt="image" src="https://user-images.githubusercontent.com/53080478/160295881-28522393-1103-4ab2-95c9-b59e20417c58.png">
 
-> **Swift by default, implements the "break" command at the end of every case**
+> **Swift by default, implements the "break" command at the end of every case, meaning to stop the switch at its FIRST matching case**
 <img width="853" alt="image" src="https://user-images.githubusercontent.com/53080478/160295903-f095a85e-b40e-4b37-bd7a-3160fa17aaf8.png">
+
+> **Swift also supports "fallthrough" to indicate moving to the next-matching case**
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/53080478/160296383-4e11bf72-6f12-4ed2-a41d-4519659429b5.png">
+
 
 ## References
 1. Swift's official documentation of Statements https://docs.swift.org/swift-book/ReferenceManual/Statements.html
