@@ -2,7 +2,7 @@
 *Some Swift materials used the term "branch statement" interchangeably with "conditional statement"*
 
 ## Boolean values
-Swift uses *true* and *false* as its boolean values
+Swift uses **true** and **false** as its boolean values
 
 ## The basic
 ### Supported conditional statements
