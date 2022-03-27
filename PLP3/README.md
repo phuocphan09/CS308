@@ -11,15 +11,15 @@ Swift uses *true* and *false* as its boolean values
 
 <img width="303" alt="image" src="https://user-images.githubusercontent.com/53080478/160295089-f300170d-d5a8-46d1-8a61-6b4031f8aeb0.png">
 
-> Besides the popular if/else statements, Swift also supports guard.
+> Besides the popular if/else statements, Swift also supports **guard**.
 > Guards executes the code blocks if the given condition is **NOT TRUE**
 > However, it is **NOT** considered the reversed version of if/else because it only supports executing ONE code block -- if and only if the given condition is false.
-> Notice that *guard* needs to be ended with return, break, continue or throw, otherwise the fall through error will be thrown
+> Notice that **guard** needs to be ended with return, break, continue or throw, otherwise the fall through error will be thrown
 <img width="841" alt="image" src="https://user-images.githubusercontent.com/53080478/160294928-2901dba0-025a-4ace-95e9-928635cd1e6e.png">
 
 <img width="970" alt="image" src="https://user-images.githubusercontent.com/53080478/160294026-c10442e1-2982-4102-9046-23492b169b93.png">
 
-> **Notice that code blocks under each condition needs to be delimited via a couple of parentheses *{}* following the above demo**
+> **Notice that code blocks under each condition needs to be delimited via a couple of parentheses *{}* following the above demos**
 
 
 ### Dangling else
