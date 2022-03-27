@@ -5,7 +5,7 @@
 Swift uses *true* and *false* as its boolean values
 
 ## The basic
-## Supported conditional statements
+### Supported conditional statements
 > If/else are the two basic keywords for conditional statements in Swift
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/53080478/160295084-22bcff99-2481-40ae-b5f2-d82c4c5311e8.png">
 
@@ -22,7 +22,7 @@ Swift uses *true* and *false* as its boolean values
 > **Notice that code blocks under each condition needs to be delimited via a couple of parentheses *{}* following the above demo**
 
 
-## Dangling else
+### Dangling else
 > Swift uses if else nested in parentheses to avoid ambiguity
 <img width="761" alt="image" src="https://user-images.githubusercontent.com/53080478/160295074-b75856da-2df0-421f-8851-1a294e266016.png">
 
@@ -40,7 +40,7 @@ Swift uses *true* and *false* as its boolean values
 > The complex form with range
 <img width="362" alt="image" src="https://user-images.githubusercontent.com/53080478/160295881-28522393-1103-4ab2-95c9-b59e20417c58.png">
 
-> **Swift by default, implements the "break" command at the end of every case*
+> **Swift by default, implements the "break" command at the end of every case**
 <img width="853" alt="image" src="https://user-images.githubusercontent.com/53080478/160295903-f095a85e-b40e-4b37-bd7a-3160fa17aaf8.png">
 
 ## References
