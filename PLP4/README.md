@@ -51,4 +51,4 @@
 ## References
 1. Loops - Swift's official documentation https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html
 2. Functions - Swift's official documentation https://docs.swift.org/swift-book/LanguageGuide/Functions.html
-3. Inout parameters in Swift - https://www.hackingwithswift.com/example-code/language/what-are-inout-parameters
+3. Inout parameters in Swift https://www.hackingwithswift.com/example-code/language/what-are-inout-parameters
