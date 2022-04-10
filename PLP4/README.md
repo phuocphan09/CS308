@@ -29,11 +29,13 @@
 > Swift supports multiple parameters with different data types
 > Functions in Swift could be placed before or after its call
 
+<img width="652" alt="image" src="https://user-images.githubusercontent.com/53080478/162635978-a57fc264-2e44-4ad8-8bcd-e6a05b9223cd.png">
+
 ### Returning multiple values within one function
 > Swifts supports multiple-value returns natively. No tricks is required to achieve this!
 > Declare the list of return variable while declaring the function. Values will be returned via a named tuple
 
-<img width="652" alt="image" src="https://user-images.githubusercontent.com/53080478/162635978-a57fc264-2e44-4ad8-8bcd-e6a05b9223cd.png">
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/53080478/162636334-3f638819-f2e2-46ca-a91a-34fdd9a0c083.png">
 
 ### Pass-by in Swift
 > The pass-by mode in Swift is explicitly indicated in any function headers
