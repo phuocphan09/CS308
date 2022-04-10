@@ -29,8 +29,6 @@
 > Swift supports multiple parameters with different data types
 > Functions in Swift could be placed before or after its call
 
-Insert code
-
 ### Returning multiple values within one function
 > Swifts supports multiple-value returns natively. No tricks is required to achieve this!
 > Declare the list of return variable while declaring the function. Values will be returned via a named tuple
