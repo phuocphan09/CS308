@@ -35,7 +35,7 @@
 > Swifts supports multiple-value returns natively. No tricks is required to achieve this!
 > Declare the list of return variable while declaring the function. Values will be returned via a named tuple
 
-<img width="751" alt="image" src="https://user-images.githubusercontent.com/53080478/162636334-3f638819-f2e2-46ca-a91a-34fdd9a0c083.png">
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/53080478/162636677-269c574c-ff00-46d5-a96f-a9fe43445271.png">
 
 ### Pass-by in Swift
 > The pass-by mode in Swift is explicitly indicated in any function headers
