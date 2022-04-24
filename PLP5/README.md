@@ -20,7 +20,7 @@
 > Class comes with more capabilities (see details below) with the cost of extra complexity
 > **Hence, use classes when they’re appropriate or necessary!**
 
-||Struct|Class|
+|Function|Structure|Class|
 |-|-|-|
 |Inheritance|Does **not** support|Support!|
 |Check type of an instance|Does **not** support|Support!|
