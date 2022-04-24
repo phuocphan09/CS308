@@ -9,7 +9,7 @@
 ### Two types of object abstraction: Struct and Class
 > Structures and classes are general-purpose, flexible constructs that become the building blocks of your program’s code.
 
-**The similarity:** 
+**The similarity** 
 > Both *structure* and *class* come with the following functions:
 - Define properties to store values
 - Define methods to provide functionality
@@ -17,7 +17,7 @@
 - Define initializers to set up their initial state
 - Be extended to expand their functionality beyond a default implementation
 
-**The difference:**
+**The difference**
 > Class comes with more capabilities (see details below) with the cost of extra complexity
 > **Hence, use classes when they’re appropriate or necessary!**
 
