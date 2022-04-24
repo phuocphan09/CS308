@@ -3,6 +3,7 @@
 ## The fundamentals
 ### Naming conventions
 > Give types UpperCamelCase names (such as SomeStructure and SomeClass here) to match the capitalization of standard Swift types (such as String, Int, and Bool).
+
 > Give properties and methods lowerCamelCase names (such as frameRate and incrementCount) to differentiate them from type names.
 
 ### Two types of object abstraction: Struct and Class
@@ -39,7 +40,7 @@
 
 
 ### Method overriding
-> Declare overidding by using the **"overide"** keyword
+> Declare overidding by using the **"override"** keyword
 <img width="879" alt="image" src="https://user-images.githubusercontent.com/53080478/164973659-0dd1d99a-def6-4907-8ee5-5f5940a92319.png">
 
 > Swift helps to ensure your overrides are correct by checking that the override definition has a matching superclass definition.
