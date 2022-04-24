@@ -50,6 +50,8 @@
 <img width="763" alt="image" src="https://user-images.githubusercontent.com/53080478/164973595-634d0211-98c2-4fc5-9013-f1443666497a.png">
 <img width="981" alt="image" src="https://user-images.githubusercontent.com/53080478/164973617-4be91289-36d3-4762-99dc-7bf70ffa0637.png">
 
+> Swift supports accessing the original version of an overrided method by using keyword "super"
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/53080478/164973852-48eb956e-9a2f-4a1c-bcf2-7e43a5e45f5e.png">
 
 ## References
 1. Structures and Classes - Swift's Official Documentation https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html
